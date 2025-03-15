@@ -1,8 +1,7 @@
 # Bill-of-Materials-for-PCB-Design
 # Aim
 
-To prepare the Bill of Material for the given circuit.
-
+To prepare the Bill of Material for Home Automation Control Unit Circuit.
 # Software’s required
 
 	Eagle software
@@ -59,16 +58,18 @@ During the product life, components may fail needing repair or upgrade. Here the
 
 # Circuit Diagram
 
+![Screenshot 2025-03-15 234703](https://github.com/user-attachments/assets/51c2f582-8086-4172-b847-1497ee491b06)
 
 
 
 # Output
 
+![Screenshot 2025-03-15 234811](https://github.com/user-attachments/assets/4c8775ec-0c8e-4c1e-9b69-0766204b7bad)
 
 
 
 
 # Result 
-Thus the bill of materials is prepared for the given PCB circuit.
+Thus the bill of materials is prepared for the Home Automation Control Unit Circuit.
 
 
